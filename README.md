@@ -1,2 +1,2 @@
-# Class-20-
-THIS CODE IS ABOUT ALGORITHMS FOR IS TOUCHING FUNCTION
+# p5.play-boilerplate
+Boiler plate for p5.play
